@@ -1,0 +1,23 @@
+﻿# Executáveis compilados Java
+*.class
+*.jar
+
+# Executáveis Windows
+*.exe
+
+# Executáveis Linux
+*.out
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
+.settings/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
